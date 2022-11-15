@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prime Number</string>
+    <string name="head_line">Find Some Prime Number</string>
+    <string name="enter_number">n th prime number</string>
+    <string name="nth_prime">\'th prime number</string>
+    <string name="submit">find</string>
+    <string name="result">nothing selected</string>
+
+</resources>
